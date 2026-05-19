@@ -53,6 +53,11 @@ var createDictionary: [String:Int] = [
 // Print the Dictionary
 print("This is a Dictionary \(createDictionary).")
 
+let numbers = [1, 2, 3, 4, 5]
+
+for number in numbers where number > 2 {
+    print(number)
+}
 
 // Exercise #2
 
