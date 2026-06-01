@@ -70,6 +70,8 @@ var studentId: [Int:String] = [
     101: "Lars",
     102: "Kirk",
     103: "James",
-    104: "Robert"
+    104: "Robert",
+    105: "Jason"
 ]
-
+// print dictionary
+print("The students and their ID numbers are \(studentId)")
