@@ -29,6 +29,7 @@ let student1 = Student(name: "Fat Mike", age: 66, grades: [12, 45, 84])
 let student2 = Student(name: "Smelly", age: 65, grades: [94, 88, 92])
 let student3 = Student(name: "El Hefe", age: 55, grades: [74, 70, 80])
 
+
 let students = [student1, student2, student3]
 
 for student in students {
